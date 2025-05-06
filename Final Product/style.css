@@ -1,0 +1,87 @@
+.stopwatch-list {
+	font-family: "Poppins", Sans-serif;
+	font-weight: 500;
+	color: #27292DC4;
+	text-align: center;
+}
+
+.stopwatch-count {
+	font-family: "Poppins", Sans-serif;
+	font-weight: 500;
+	color: black;
+	font-size: 18px;
+}
+
+.stopwatch-title {
+	padding: 6px 6px 6px 6px;
+	border: 2px solid #27292DC4;
+	border-radius: 4px;
+	font-family: "Poppins", Sans-serif;
+	font-size: 16px;
+	box-shadow: 0px 0px 5px rgba(0, 123, 255, 0.5);
+}
+
+.stopwatch-description {
+	padding: 6px 6px 6px 6px;
+	border-radius: 4px;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	border: 2px solid #27292DC4;
+	box-shadow: 0px 0px 5px rgba(0, 123, 255, 0.5);
+}
+
+#stopwatch-clearall {
+	background-color: red;
+    color: #fff;
+    padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 16px;
+	margin: 3px;
+}
+
+#stopwatch-clearall:hover {
+	background-color: #a30000;
+}
+
+#stopwatch-start-stop {
+    background-color: green;
+    color: #fff;
+    padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 16px;
+	margin: 3px;
+}
+
+#remove-stopwatch {
+	background-color: red;
+    color: #fff;
+    padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 16px;
+	margin: 3px;
+}
+
+#remove-stopwatch:hover {
+	background-color: #a30000;
+}
+
+.stopwatch-btn-group {
+	background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+	margin: 3px;
+}
+
+.stopwatch-btn-group:hover {
+	background-color: #0B6598;	
+}
